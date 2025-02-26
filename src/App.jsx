@@ -15,7 +15,12 @@ function App() {
         <Navbar/>
         <MobileNav/>
       </div>
-      <h1>This is home page</h1>
+      <div className='content'>
+        <h1 className="title">Oliver Gingerich</h1>
+        <div className='info'>
+          <h3>Programming | Writing | Art</h3>
+        </div>
+      </div>
     </>
   )
 }

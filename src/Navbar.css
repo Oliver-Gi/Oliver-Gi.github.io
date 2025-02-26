@@ -4,8 +4,9 @@
     justify-content: space-between;
     align-items: center;
     background-color: #170505;
+    font-weight: lighter;
     color: #FCC2C2;
-    padding: 1vw;
+    padding: 1rem;
 
     top: 0;
     left: 0;
@@ -14,8 +15,8 @@
 }
 
 .navbar-left .logo{
-    font-size: 2.5vw;
-    font-weight: bold;
+    font-size: 1.5rem;
+    font-weight: normal;
     color: #FCC2C2;
     text-decoration: none;
 }
@@ -28,12 +29,14 @@
 }
 
 .navbar-right .nav-links li {
-    margin-right: 2.5vw;
-    font-size: 2.25vw;
+    margin-right: 2rem;
+    font-weight: lighter;
+    font-size: 1rem;
 }
 
 .navbar-right .nav-links a {
     color: #FCC2C2;
+    font-weight: 200;
     text-decoration: none;
 }
 
@@ -62,6 +65,12 @@
         display: none;
     }
 
+    .navbar-left .logo{
+        font-weight: normal;
+        color: #FCC2C2;
+        text-decoration: none;
+    }
+
     .MobileNav{
         display: flex;
         position: fixed;
@@ -69,11 +78,11 @@
         align-items: center;
         background-color: #170505;
         color: #FCC2C2;
-        padding: 2vw;
+        padding: 1rem;
 
         top: 0;
         left: 0;
-        width: 96%;
+        width: 96vw;
     }
 
     .navbar-right .nav-links{
@@ -82,16 +91,16 @@
         justify-content: space-evenly;
         position:absolute;
         background-color: #170505;
-        top: 10.5vw;
-        right: 2vw;
+        top: 9vh;
+        right: 3vw;
         height: auto;
         width: auto;
-        padding: 2vw;
+        padding: 2rem;
         border-radius: 10%;
     }
 
     .navbar-right .nav-links li {
         margin: 0.5rem;
-        font-size: 3vw;
+        font-size: 1.25rem;
     }
 }
