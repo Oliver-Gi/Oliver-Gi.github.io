@@ -37,7 +37,7 @@ const MobileNav = () => {
     return(
         <nav className="MobileNav">
             <div className="navbar-left" role="navigation">
-                <a href="/" className="logo">Oliver Gingerich</a>
+                <a href="/" className="logo">Home</a>
             </div>
             <div className="navbar-right">
                 {click ? Close : Hamburger}

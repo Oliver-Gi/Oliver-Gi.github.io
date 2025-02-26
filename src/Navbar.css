@@ -5,7 +5,7 @@
     align-items: center;
     background-color: #170505;
     color: #FCC2C2;
-    padding: 1rem;
+    padding: 2vw;
 
     top: 0;
     left: 0;
@@ -14,7 +14,7 @@
 }
 
 .navbar-left .logo{
-    font-size: 2rem;
+    font-size: 4vw;
     font-weight: bold;
     color: #FCC2C2;
     text-decoration: none;
@@ -28,8 +28,8 @@
 }
 
 .navbar-right .nav-links li {
-    margin-right: 1rem;
-    font-size: 1.25rem;
+    margin-right: 2.5vw;
+    font-size: 2.25vw;
 }
 
 .navbar-right .nav-links a {
@@ -69,7 +69,7 @@
         align-items: center;
         background-color: #170505;
         color: #FCC2C2;
-        padding: 1rem;
+        padding: 2vw;
 
         top: 0;
         left: 0;
@@ -82,15 +82,16 @@
         justify-content: space-evenly;
         position:absolute;
         background-color: #170505;
-        top: 5.25rem;
-        right: 1rem;
+        top: 10.5vw;
+        right: 2vw;
         height: auto;
         width: auto;
-        padding: 1rem;
+        padding: 2vw;
         border-radius: 10%;
     }
 
     .navbar-right .nav-links li {
         margin: 0.5rem;
+        font-size: 3vw;
     }
 }
