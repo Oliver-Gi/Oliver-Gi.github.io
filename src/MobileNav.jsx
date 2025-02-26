@@ -31,7 +31,7 @@ const MobileNav = () => {
     />
 
     const Close = <IoMdClose className="HamburgerMenu"
-            size="1rem" color="#FCC2C2"
+            color="#FCC2C2"
             onClick={() => setClick(!click)}
     />
 
