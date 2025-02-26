@@ -15,6 +15,7 @@ function App() {
         <Navbar/>
         <MobileNav/>
       </div>
+      <h1>This is home page</h1>
     </>
   )
 }

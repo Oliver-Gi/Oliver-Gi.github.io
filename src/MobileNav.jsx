@@ -9,10 +9,10 @@ const NavLinks = () => {
     return(
         <ul className="nav-links">
             <li>
-                <a href="/products">About</a>
+                <a href="/about">About</a>
             </li>
             <li>
-                <a href="/about">Projects</a>
+                <a href="/projects">Projects</a>
             </li>
             <li>
                 <a href="/contact">Contact</a>
