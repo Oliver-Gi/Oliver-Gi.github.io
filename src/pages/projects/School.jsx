@@ -21,7 +21,7 @@ const School = () =>{
                     <div className='projectList'>
                         {/*ACCOUNT MANAGER */}
                         <div className='projectItem'>
-                            Data Sctructures: Account Manager
+                            <strong>Data Sctructures: Account Manager</strong>
                         </div>
 
                         <div className='projectItem'>
@@ -30,7 +30,7 @@ const School = () =>{
 
                         {/*WORD GUESSING GAME */}
                         <div className='projectItem'>
-                            Windows Programming: Word Guessing Game
+                            <strong>Windows Programming: Word Guessing Game</strong>
                         </div>
 
                         <div className='projectItem'>
@@ -40,7 +40,7 @@ const School = () =>{
 
                         {/*DATABASE*/}
                         <div className='projectItem'>
-                            Relational Databases: Music Player Database
+                            <strong>Relational Databases: Music Player Database</strong>
                         </div>
 
                         <div className='projectItem'>
