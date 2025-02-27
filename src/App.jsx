@@ -17,11 +17,9 @@ function App() {
 
   return (
     <>
-      <div>
-        <Navbar/>
-        <MobileNav/>
-      </div>
       <div className='content'>
+      <Navbar/>
+      <MobileNav/>
         <h1 className="title">Oliver Gingerich</h1>
         <div className='info'>
           <h3>Software Student | Programming | Writing | Art</h3>
