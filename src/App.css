@@ -19,13 +19,14 @@
   top: -10vh;
   left: 10vw;
   width: 70vw;
+  z-index: 0;
 }
 
 .info{
   text-align: left;
   position: relative;
   font-size: 1rem;
-  width: 50vw;
+  width: 80vw;
   color: #FCC2C2;
 
   top: -17vh;
@@ -51,13 +52,13 @@
   .title{
     font-size: 3rem;
   
-    top: -10vh;
+    top: 0vh;
     left: 10vw;
     width: 70vw;
   }
 
   .info{
-    top: -14vh;
+    top: -4vh;
   }
 
   .logos{
@@ -66,7 +67,7 @@
     flex-direction: row;
     width: 70vw;
   
-    margin-top: -6rem;
+    margin-top: -5vh;
     margin-left: 15vw;
   }
 
