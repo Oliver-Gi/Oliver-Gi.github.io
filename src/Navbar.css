@@ -92,16 +92,16 @@
         justify-content: space-evenly;
         position:absolute;
         background-color: #170505;
-        top: 9vh;
+        top: 4.5rem;
         right: 3vw;
         height: auto;
         width: auto;
-        padding: 2rem;
+        padding: 1rem;
         border-radius: 10%;
     }
 
     .navbar-right .nav-links li {
         margin: 0.5rem;
-        font-size: 1.25rem;
+        font-size: 1rem;
     }
 }

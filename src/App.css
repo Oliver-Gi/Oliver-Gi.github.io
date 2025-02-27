@@ -52,13 +52,13 @@
   .title{
     font-size: 3rem;
   
-    top: 0vh;
+    top: 0rem;
     left: 10vw;
     width: 70vw;
   }
 
   .info{
-    top: -4vh;
+    top: -2rem;
   }
 
   .logos{
@@ -67,7 +67,7 @@
     flex-direction: row;
     width: 70vw;
   
-    margin-top: -5vh;
+    margin-top: -2rem;
     margin-left: 15vw;
   }
 
