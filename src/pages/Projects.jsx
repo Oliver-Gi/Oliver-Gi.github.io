@@ -1,13 +1,17 @@
 import React from 'react'
 import Navbar from '../Navbar'
 import MobileNav from '../MobileNav'
+import School from './projects/School'
 
 const Projects = () => {
     return(
         <div>
             <Navbar/>
             <MobileNav/>
-            <h1>This is project page</h1>
+            <div>
+                <h1>Projects</h1>
+                <School/>
+            </div>
         </div>
     )
 }

@@ -16,18 +16,10 @@ h3{
     color: #FCC2C2;
 }
 
-.left{
-    width: 45%;
-}
-
 .line{
     width: 5%;
     margin-left: 5%;
     border-left: 1px solid #170505;
-}
-
-.right{
-    width: 45%;
 }
 
 .aboutMeImage{
@@ -61,6 +53,49 @@ h3{
 
     padding: 0.25rem;
     margin: 0.25rem;
+}
+
+.projectToggle{
+    margin-top: 1rem;
+    margin-bottom: 0px;
+    width: 90%;
+    border-radius: 0;
+    background-color: #17050598;
+
+    text-align: left;
+    border: 1px solid #170505;
+}
+
+.projectContents{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 0px;
+    background-color: #fcc2c282;
+    color: #170505;
+    padding-top: 0.1rem;
+    padding-bottom: 0.5rem;
+
+    border: 1px solid #170505;
+}
+
+.projectList{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-left: 0;
+
+    background-color: #FCC2C2;
+    width: 90%;
+    margin-left: 5%;
+    border-radius: 1rem;
+}
+
+.projectItem{
+    width: 40%;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    border-bottom: 1px solid #170505;
 }
 
 @media (max-width: 768px){
