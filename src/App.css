@@ -53,18 +53,18 @@
   .title{
     font-size: 3rem;
   
-    margin-top: 15rem;
-    margin-left: 5rem;
+    margin-top: 5rem;
+    margin-left: 1rem;
     width: 70vw;
   }
 
   .info{
     top: 0rem;
-    margin-left: 6rem;
+    margin-left: 1.5rem;
   }
 
   .logos{
-    margin-left: 15vw;
+    margin-left: 5vw;
     width: 70vw;
   
     margin-top: 0rem;
