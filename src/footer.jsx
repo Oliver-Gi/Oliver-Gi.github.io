@@ -4,9 +4,9 @@ import './App.css'
 const Footer = () => {
     return(
         <div className="footer">
-            <a href="https://evilr.ing/corbin-sg/previous">{'<'}</a>
+            <a href="https://evilr.ing/oliver-gi/previous">{'<'}</a>
             <a href="https://evilr.ing"> EVILRING </a>
-            <a href="https://evilr.ing/corbin-sg/next">{'>'}</a>
+            <a href="https://evilr.ing/oliver-gi/next">{'>'}</a>
         </div>
     )
 }
