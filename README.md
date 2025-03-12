@@ -8,4 +8,5 @@ https://oliver-gi.github.io
 
 ### Author
 Oliver Gingerich
+
 *He/Him*
