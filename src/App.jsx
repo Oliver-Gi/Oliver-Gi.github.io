@@ -4,6 +4,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import Navbar from './Navbar'
 import MobileNav from './MobileNav'
+import Footer from './footer'
 import './App.css'
 import linkedin from './logos/linkedin.png'
 import github from './logos/github.png'
@@ -49,6 +50,7 @@ function App() {
             <img className='logo' src={tiktok} alt='Tiktok'/>
           </a>
         </div>
+      <Footer/>
       </div>
     </>
   )
