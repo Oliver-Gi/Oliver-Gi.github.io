@@ -26,6 +26,7 @@ const WebGame = () =>{
                             it into a react app in the near future. <br/>
                             This project is currently on hold while I am busy with school work. I have most of the functionality done, however, I still need to improve
                             the UI/UX and finish implementing the battle mechanics. Keep an eye out for updates starting this Spring!
+                            The game will be hosted on <a href='https://oliver-gi.github.io/CloneAdventure'>this site</a>
                         </div>
                     </div>
             </div>}
