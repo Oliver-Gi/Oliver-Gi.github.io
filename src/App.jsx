@@ -12,6 +12,7 @@ import email from './logos/email.png'
 import x from './logos/x.png'
 import instagram from './logos/instagram.png'
 import tiktok from './logos/tiktok.png'
+import discord from './logos/discord.png'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -48,6 +49,9 @@ function App() {
 
           <a href='https://www.tiktok.com/@oliver__gi'>
             <img className='logo' src={tiktok} alt='Tiktok'/>
+          </a>
+          <a href='https://discord.gg/BqxN4P3w6E'>
+            <img className='logo' src={discord} alt='Tiktok'/>
           </a>
         </div>
       <Footer/>
